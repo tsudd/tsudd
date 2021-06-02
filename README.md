@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi! Good to see you here! Have a good live and always be kind. Peace✌️<br/> </h1> 
+<h1 align="center"> Hi! Good to see you here! Have a good life and always be kind. Peace✌️<br/> </h1> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsudd&langs_count=6hide=html,css,scss">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=tsudd&count_private=true&show_icons=true&theme=dark&hide_title=true">
