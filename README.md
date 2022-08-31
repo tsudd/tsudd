@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Welcome here. Clean up your room, it's a great start.<br/> </h1> 
 <div style="display: flex; flow-direction: row;">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsudd&layout=compact&hide=jupyter%20notebook,html,css,scss&theme=dark">
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=tsudd&count_private=true&show_icons=true&theme=dark&hide_title=true">
+<img  src="https://github-readme-stats.vercel.app/api?username=tsudd&count_private=true&show_icons=true&theme=dark&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsudd&layout=compact&hide=jupyter%20notebook,html,css,scss&theme=dark">
 </div>
 <br />
 
